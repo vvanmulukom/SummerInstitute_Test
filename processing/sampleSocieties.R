@@ -13,6 +13,6 @@ coders = c("HM","JH","KT","EP","ES","VH","LC","BM", "MY", "VM", "CB", "DX", "MZ"
 
 # Create columns for coder and subsitence type
 socSample$Coder = sort(coders)
-socSample$subsistenceType = "NOT CODED YET"
+socSample$polygamousMarriage = "NOT CODED YET"
           
-write.csv(socSample, "../data/SubsistenceType.csv",row.names = F)
+write.csv(socSample, "../data/polygamousMarriage.csv",row.names = F)
