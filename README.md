@@ -1,3 +1,3 @@
 # Summer institute example repository
 
-Description of project here.# SummerInstitute_Test
+Description of project here.
